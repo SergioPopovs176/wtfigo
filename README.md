@@ -1,2 +1,2 @@
 # WTFIGO
-New godot game
+Godot RPG game
